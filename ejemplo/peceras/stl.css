@@ -1,0 +1,50 @@
+#body {
+background-color: #68c3D4;
+}
+
+* {
+font-family: 'Roboto', sans-serif;
+}
+
+#img{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+
+#nav-bar{
+background-color: #68c3D4;
+height: 70px;
+}
+
+#nav-bar ul{
+display: flex;
+margin: 10px;
+}
+
+#nav-bar ul li{
+margin: 10px;
+display: flex;
+}
+
+#nav-bar ul li a{
+display: flex;
+color: #fff;
+text-decoration: dotted;
+padding: 10px;
+border: #006400 solid
+}
+
+#nav-bar ul li a:hover{
+background-color: #9acd32;
+}
+
+.parra{
+    width: 90%;
+    background-color: #9acd32;
+}
+
+#pie{
+    background-color: #9acd32;
+}
